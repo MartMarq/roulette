@@ -10,4 +10,4 @@ every day at 0:30 it sets back time by 15 seconds and 500 ms, because my Watchy 
 
 ![roulette](https://github.com/MartMarq/roulette/assets/139223739/daa6c3b3-46fb-421f-bd10-1d895520e0f0)
 
-by pressing the right upper button you can switch between the dart watchface and a simple watchface with numbers
+by pressing the right upper button you can switch between the Roulette watchface and a simple watchface with numbers
